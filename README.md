@@ -25,4 +25,15 @@ Sign in to the 1Password `op` tool.  This is probably `op signin https://my.1pas
 
 Then run `python3 keepass-to-1password.py <path to keepass file> <1Password Vault>`
 
-Magic should happen.
+Magic should happen.  If you're logged into 1Password, you might even see your passwords appearing in your vault.
+
+# Dedication
+
+This software is dedicated to everyone affected by the derecho that hit eastern Iowa on August 10, 2020.  Particularly those in Cedar Rapids.
+
+If this software is helpful and you want to show your appreciation, here are a few places that helped people in Iowa that needed it:
+* [World Central Kitchen](https://wck.org/) was on the ground quickly, [helping people that really needed it](https://wck.org/).
+* [Hawkeye Area Community Action Program](https://www.hacap.org/) is a local nonprofit that has been helping with food and other needs.
+* [United Way of East Central Iowa](https://www.uweci.org/) jumped in to help pretty fast, too.
+
+Many thanks to the helpers, especially those that helped while also working on their own recovery needs!
